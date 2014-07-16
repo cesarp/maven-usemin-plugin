@@ -1,0 +1,2 @@
+maven-usemin-plugin
+===================
